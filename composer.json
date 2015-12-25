@@ -1,8 +1,5 @@
 {
   "name": "misszero/rice_test_lib",
   "description": "A short description of what your package does",
-  "version": "1.0.0",
-  "require": {
-    "monolog/monolog": "1.2.*"
-  }
+  "version": "1.0.0"
 }
